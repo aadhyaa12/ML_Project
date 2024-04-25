@@ -3,7 +3,7 @@
 # Time Series Forecasting of AAPL Stock Prices
 
 ## Dataset(s) Description
-This project utilizes a dataset consisting of historical stock prices for Apple Inc. (AAPL), covering several years of trading. The dataset includes the following fields:
+This project utilizes a dataset consisting of historical stock prices for Apple Inc. (AAPL), covering 1 year of trading [April 2023 - April 2024]. The dataset includes the following fields:
 
 - `Date`: The trading day (typically Monday to Friday, excluding holidays).
 - `Open`: The price at which the stock started trading during the business day.
