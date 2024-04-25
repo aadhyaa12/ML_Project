@@ -1,7 +1,5 @@
 # ML_Project
 
-readme_md_content = """
-
 # Time Series Forecasting of AAPL Stock Prices
 
 ## Dataset(s) Description
