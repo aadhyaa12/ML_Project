@@ -56,7 +56,7 @@ Suggestions to enhance the model include incorporating more granular data, consi
 Here we include various visual representations that serve as key insights into the dataset and the performance of our forecasting model.
 
 ## Distribution Visualization of Trading Metrics
- ![Distribution of Stock Trading Metrics]([images/histograms.jpeg "Distribution Visualization of Trading Metrics](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-2.jpeg?raw=true)")
+ ![Distribution of Stock Trading Metrics](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-2.jpeg?raw=true)")
 
 This collection of histograms with superimposed Kernel Density Estimates illustrates the diverse range of trading metrics for AAPL, such as opening, closing, high, low prices, and volume over the past year. Noticeable is the trading volume's bimodality, suggesting inconsistent trading activity levels.
 
