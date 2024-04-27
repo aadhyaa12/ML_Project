@@ -51,6 +51,35 @@ Recommendations for deploying the model in a production setting are provided, wi
 ## Going Further
 Suggestions to enhance the model include incorporating more granular data, considering additional external factors, and employing more complex models such as machine learning algorithms.
 
+## Visual Data Insights
+
+Here we include various visual representations that serve as key insights into the dataset and the performance of our forecasting model.
+
+## Distribution Visualization of Trading Metrics
+
+![alt text](URL "WhatsApp Image 2024-04-26 at 9.35.54 PM-2.jpeg")
+
+This collection of histograms with superimposed Kernel Density Estimates illustrates the diverse range of trading metrics for AAPL, such as opening, closing, high, low prices, and volume over the past year. Noticeable is the trading volume's bimodality, suggesting inconsistent trading activity levels.
+
+Statistical Dispersion of Stock Metrics
+Box plot representations for AAPL's trading metrics provide a succinct statistical summary, including median, quartiles, and outliers, especially highlighting days with atypical trading volumes.
+Predictive Modeling: Initial Efforts
+The line chart contrasts the early model predictions against actual stock prices, revealing the initial phase of the model's ability to grasp general trends but not volatility.
+Predictive Modeling: Challenges Highlighted
+Here, a clear discrepancy is shown between the model's predictions and the actual stock prices, underscoring the complexities in modeling stock price behaviors.
+Yearly Trend of AAPL's Closing Prices
+A time series representation that charts the fluctuation in AAPL's closing prices over the year, laying the groundwork for the predictive modeling.
+Predictive Confidence Analysis
+This prediction plot, inclusive of actual prices, features a confidence interval indicative of the model's certainty levels.
+Learning Curve of the Model
+This curve delineates the evolution of model loss during the training process, illustrating how well the model is learning from the data.
+Comprehensive Predictive Performance
+A detailed chart showing the actual versus predicted prices, this image illustrates the efficacy of the model on both the training and testing sets.
+Technical Analysis: Moving Average
+Comparing AAPL's actual closing prices with a 50-day moving average, this graph demonstrates one of the many technical tools used in stock analysis.
+Longitudinal Analysis of Closing Prices
+A specialized focus on the closing price trend, this graph offers a direct view into the stock's price progression over time, and acts as a benchmark for forecasting performance.
+
 ---
 *End of README.md*
 """
