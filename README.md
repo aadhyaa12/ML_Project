@@ -66,29 +66,43 @@ This collection of histograms with superimposed Kernel Density Estimates illustr
 Box plot representations for AAPL's trading metrics provide a succinct statistical summary, including median, quartiles, and outliers, especially highlighting days with atypical trading volumes.
 
 ## Predictive Modeling
- ![Initial Stock Price Prediction]("https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-4.jpeg?raw=true")
+ ![Initial Stock Price Prediction](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-4.jpeg?raw=true")
 
 The line chart contrasts the early model predictions against actual stock prices, revealing the initial phase of the model's ability to grasp general trends but not volatility.
 
 ## Predictive Modeling
+ ![Stock Price Prediction with Poor Fit](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-5.jpeg?raw=true")
+ 
 Here, a clear discrepancy is shown between the model's predictions and the actual stock prices, underscoring the complexities in modeling stock price behaviors.
 
 ## Yearly Trend of AAPL's Closing Prices
+ ![Historical Trend of Closing Prices](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-6.jpeg?raw=true)")
+ 
 A time series representation that charts the fluctuation in AAPL's closing prices over the year, laying the groundwork for the predictive modeling.
 
 ## Predictive Confidence Analysis
+ ![Model Prediction with Confidence Interval](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-7.jpeg?raw=true")
+
 This prediction plot, inclusive of actual prices, features a confidence interval indicative of the model's certainty levels.
 
 ## Learning Curve of the Model
+![Model Training and Testing Loss](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-8.jpeg?raw=true")
+
 This curve delineates the evolution of model loss during the training process, illustrating how well the model is learning from the data.
 
 ## Comprehensive Predictive Performance
+![Comprehensive Stock Price Prediction](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM-9.jpeg?raw=true")
+
 A detailed chart showing the actual versus predicted prices, this image illustrates the efficacy of the model on both the training and testing sets.
 
 ## Technical Analysis
+ ![Stock Prices and Moving Average](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.54%20PM.jpeg?raw=true")
+
 Comparing AAPL's actual closing prices with a 50-day moving average, this graph demonstrates one of the many technical tools used in stock analysis.
 
 ## Longitudinal Analysis of Closing Prices
+![Trend Analysis of AAPL Closing Prices](https://github.com/aadhyaa12/ML_Project/blob/main/WhatsApp%20Image%202024-04-26%20at%209.35.53%20PM.jpeg?raw=true")
+
 A specialized focus on the closing price trend, this graph offers a direct view into the stock's price progression over time, and acts as a benchmark for forecasting performance.
 
 ---
